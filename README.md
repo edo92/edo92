@@ -38,6 +38,9 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to le
     <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
+<br/>
+<br/>
+
 **Cloud Infrastructure**
 
 <p float="left">
