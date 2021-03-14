@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to learn from open-source community and contribute back.
+Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. <br/> Love to learn from open-source community and contribute back.
 
 - Ask me any question, happy to help
 - contact me at edoter92@gmail.com
