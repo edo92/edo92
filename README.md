@@ -1,4 +1,4 @@
-### Hi, I'am Ed 👋 <a class="github-button" href="https://github.com/edo92" aria-label="Follow @edo92 on GitHub">Follow @edo92</a>
+### Hi, I'am Ed 👋 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 
 <!--
 **edo92/edo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
