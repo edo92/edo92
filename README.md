@@ -13,14 +13,13 @@
     <img align="left" alt="Eduard Jacobs Linkedin" width="60px" src="https://github.com/edo92/edo92/blob/main/badges/slack-logo.svg" />
 </a>
 
+<br/>
+
 Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to learn from open-source community and contribute back.
 
 - Ask me any question, happy to help
 - contact me at edoter92@gmail.com
 - [resume](https://www.linkedin.com/posts/the-ej_resume-activity-6704231161369047040-s0Uj)
-
-<br/>
-<br/>
 
 ---
 
