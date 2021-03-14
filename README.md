@@ -1,4 +1,5 @@
-### Hi, I'am Ed 👋 [![Linkedin: edo92](https://img.shields.io/badge/-edo92-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/the-ej/)](https://www.linkedin.com/in/the-ej/)
+### Hi, I'am Ed 👋 
+[![Linkedin: edo92](https://img.shields.io/badge/-edo92-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/the-ej/)](https://www.linkedin.com/in/the-ej/)
 
 <!--
 **edo92/edo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
