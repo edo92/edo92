@@ -8,6 +8,7 @@
 <a class="github-button" href="https://github.com/edo92" aria-label="Follow @edo92 on GitHub">
     <img align="left" alt="Eduard Jacobs Linkedin" width="22px" src="https://github.com/edo92/edo92/blob/main/badges/github.svg" />
 </a>
+
 ![slak](https://aleen42.github.io/badges/src/slack.svg)
 
 <br/>
