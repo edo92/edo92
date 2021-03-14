@@ -6,7 +6,7 @@
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/edo92" aria-label="Follow @edo92 on GitHub">
-    <img align="left" alt="Eduard Jacobs Linkedin" width="22px" src="https://github.com/edo92/edo92/blob/main/badges/github.svg" />
+    <img align="left" alt="Eduard Jacobs Linkedin" width="100px" src="https://github.com/edo92/edo92/blob/main/badges/github.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/the-ej/">
