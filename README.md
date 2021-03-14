@@ -13,8 +13,6 @@
     <img align="left" alt="Eduard Jacobs Linkedin" width="60px" src="https://github.com/edo92/edo92/blob/main/badges/slack-logo.svg" />
 </a>
 
----
-
 <br/>
 <br/>
 
@@ -26,6 +24,7 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to le
 ---
 
 **Languages & Tools**
+
 <p float="left">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -44,10 +43,14 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to le
 <br/>
 
 **Front End Tools & Frameworks** \
-![React](https://aleen42.github.io/badges/src/react.svg)
-![React Router](https://aleen42.github.io/badges/src/router.svg)
-![Redux](https://aleen42.github.io/badges/src/redux.svg)
-![Jest](https://aleen42.github.io/badges/src/jest_1.svg)
+
+<p float="left">
+    <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+</p>
 
 <!--
 **edo92/edo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
