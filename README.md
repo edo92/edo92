@@ -1,6 +1,4 @@
-### Hi, I'am Ed 👋 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/edo92" aria-label="Follow @edo92 on GitHub">Follow @edo92</a>
+### Hi, I'am Ed 👋 <a class="github-button" href="https://github.com/edo92" aria-label="Follow @edo92 on GitHub">Follow @edo92</a>
 
 <!--
 **edo92/edo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
