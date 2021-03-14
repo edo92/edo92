@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/the-ej/">
-    <img align="left" alt="Eduard Jacobs Linkedin" width="100px" src="https://github.com/edo92/edo92/blob/main/badges/slack.svg" />
+    <img align="left" alt="Eduard Jacobs Linkedin" width="70px" src="https://github.com/edo92/edo92/blob/main/badges/slack.svg" />
 </a>
 
 <br/>
