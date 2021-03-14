@@ -19,8 +19,8 @@
 Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. <br/> Love to learn from open-source community and contribute back.
 
 - Ask me any question, happy to help
-- contact me via [Linkedin](https://www.linkedin.com/in/the-ej/)
-- [resume](https://www.linkedin.com/posts/the-ej_resume-activity-6704231161369047040-s0Uj)
+- Contact me via [Linkedin](https://www.linkedin.com/in/the-ej/)
+- Check out my resume [resume](https://www.linkedin.com/posts/the-ej_resume-activity-6704231161369047040-s0Uj)
 
 ---
 
