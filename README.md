@@ -9,14 +9,17 @@
     <img align="left" alt="Eduard Jacobs Linkedin" width="22px" src="https://github.com/edo92/edo92/blob/main/badges/github.svg" />
 </a>
 
-</br>
+<br/>
+<br/>
 
 Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to learn from open-source community and contribute back.
 
 
 **Languages and Tools:**  
-![JS](https://github.com/edo92/edo92/blob/main/badges/javascript.svg)
-
+![JS](https://aleen42.github.io/badges/src/javascript.svg)
+![TS](https://aleen42.github.io/badges/src/typescript.svg)
+![Node](https://aleen42.github.io/badges/src/node.svg)
+![Docker](https://aleen42.github.io/badges/src/docker.svg)
 
 <!--
 **edo92/edo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
