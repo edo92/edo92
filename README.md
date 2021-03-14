@@ -10,13 +10,20 @@
 </a>
 
 <a href="https://www.linkedin.com/in/the-ej/">
-    <img align="left" alt="Eduard Jacobs Linkedin" width="65px" src="https://github.com/edo92/edo92/blob/main/badges/slack-logo.svg" />
+    <img align="left" alt="Eduard Jacobs Linkedin" width="60px" src="https://github.com/edo92/edo92/blob/main/badges/slack-logo.svg" />
 </a>
+
+---
 
 <br/>
 <br/>
 
 Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to learn from open-source community and contribute back.
+
+<br/>
+<br/>
+
+---
 
 **Languages & Tools**
 <p float="left">
