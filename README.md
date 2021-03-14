@@ -8,6 +8,7 @@
 <a class="github-button" href="https://github.com/edo92" aria-label="Follow @edo92 on GitHub">
     <img align="left" alt="Eduard Jacobs Linkedin" width="22px" src="https://github.com/edo92/edo92/blob/main/badges/github.svg" />
 </a>
+![slak](https://aleen42.github.io/badges/src/slack.svg)
 
 <br/>
 <br/>
@@ -23,7 +24,6 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to le
 
 **Front End Tools & Frameworks** \
 ![React](https://aleen42.github.io/badges/src/react.svg)
-![Angular](https://aleen42.github.io/badges/src/angular.svg)
 ![React Router](https://aleen42.github.io/badges/src/router.svg)
 ![Redux](https://aleen42.github.io/badges/src/redux.svg)
 ![Jest](https://aleen42.github.io/badges/src/jest_1.svg)
