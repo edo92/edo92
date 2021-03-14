@@ -21,7 +21,10 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to le
 ![JS](https://aleen42.github.io/badges/src/javascript.svg)
 ![TS](https://aleen42.github.io/badges/src/typescript.svg)
 ![Node](https://aleen42.github.io/badges/src/node.svg)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![Docker](https://aleen42.github.io/badges/src/docker.svg)
+
+<br/>
 
 **Front End Tools & Frameworks** \
 ![React](https://aleen42.github.io/badges/src/react.svg)
