@@ -23,6 +23,7 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to le
 
 **Front End Tools & Frameworks** \
 ![React](https://aleen42.github.io/badges/src/react.svg)
+![Angular](https://aleen42.github.io/badges/src/angular.svg)
 ![React Router](https://aleen42.github.io/badges/src/router.svg)
 ![Redux](https://aleen42.github.io/badges/src/redux.svg)
 ![Jest](https://aleen42.github.io/badges/src/jest_1.svg)
