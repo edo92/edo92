@@ -21,6 +21,12 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. Love to le
 ![Node](https://aleen42.github.io/badges/src/node.svg)
 ![Docker](https://aleen42.github.io/badges/src/docker.svg)
 
+**Front End**
+![React](https://aleen42.github.io/badges/src/react.svg)
+![React Router](https://aleen42.github.io/badges/src/router.svg)
+![Redux](https://aleen42.github.io/badges/src/redux.svg)
+![Jest](https://aleen42.github.io/badges/src/jest_1.svg)
+
 <!--
 **edo92/edo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
