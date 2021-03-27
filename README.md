@@ -20,7 +20,7 @@ Hi, I'm Eduard Jacobs, Full Stack Software Engineer from Los Angeles. <br/> Love
 
 - Ask me any question, happy to help
 - Contact me via [Linkedin](https://www.linkedin.com/in/the-ej/)
-- Check out my resume [resume](https://www.linkedin.com/posts/the-ej_resume-activity-6704231161369047040-s0Uj)
+- Check out my resume [resume](https://github.com/edo92/edo92/blob/main/resume/resume.pdf)
 
 ---
 
