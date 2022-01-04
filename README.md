@@ -19,7 +19,7 @@
 Hi, I'm Eduard Jacobs, Full Stack Software Engineer based in Los Angeles. <br/> Love to learn from open-source community and contribute back.
 
 - Ask me any question, happy to help
-- Secondary github [Linkedin](https://github.com/cyber-netics/)
+- Secondary github [Github](https://github.com/cyber-netics/)
 - Contact me via [Linkedin](https://www.linkedin.com/in/the-ej/)
 - Check out my resume [resume](https://github.com/edo92/edo92/blob/main/resume/resume.pdf)
 
